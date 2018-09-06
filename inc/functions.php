@@ -6,7 +6,7 @@ require_once(DBAPI);
 $noticias = null;
 $noticia = null;
 /**
- *  Listagem de Clientes
+ *  Listagem de Notícias na página inicial
  */
 function index() {
 	global $noticias;
