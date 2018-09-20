@@ -2,9 +2,6 @@
 
 CRUD com PHP e MySQL
 
-## Sobre
-
-Prova prática para Desenvolvedor back-end na empresa Backsite.
 
 ### Tecnologias utilizadas
 
